@@ -14,6 +14,7 @@ Add the plugin:
 
 ```bash
 set -g @plugin 'dlvandenberg/mountnugget.tmux'
+set -g @tmux-mountnugget
 ```
 
 Press `<prefix> + I` to install the plugin.
